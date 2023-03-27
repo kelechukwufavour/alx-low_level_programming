@@ -1,7 +1,5 @@
-A function is a group of statement that together perform a task.
-All C programs has at least one function
-The syntax of writing a function include
-Return type
-Function name
-Parameters
-Actual body 
+A function declaration provides the actual body of the function. Therefore the syntax of writing a function include:-
+return type
+function name
+parameters 
+Actual body

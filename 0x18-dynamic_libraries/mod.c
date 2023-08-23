@@ -1,14 +1,15 @@
 #include "main.h"
 /**
-* mod - adds two given integers
-*
-* @a: first integer
-* @b: second integer
-*
-* Return: sum of the two integers
-*/
+ * mod - calculates the remainder of two given integers
+ *
+ * @a: first integer
+ * @b: second integer
+ *
+ * Return: remainder of the division
+ */
 int mod(int a, int b)
 {
-int mod;
-mod = a % b;
-return (mod);
+	int remainder;
+	remainder = a % b;
+	return remainder;
+}

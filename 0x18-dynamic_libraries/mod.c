@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  * mod - calculates the remainder of two given integers
  *

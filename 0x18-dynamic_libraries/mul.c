@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  * mul - miltiply 2 int
  * @a: first int

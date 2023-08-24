@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  * my_div - divides two given integers
  *

@@ -1,4 +1,4 @@
-#include "search_all.h"
+#include "search_algos.h"
 
 /**
  * jump_list - searches for a value in a sorted linked list of integers
